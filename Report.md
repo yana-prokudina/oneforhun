@@ -10,4 +10,8 @@
 
 Финальный вывод бонуса приведен в копейках.
 
+Результат запуска:
+
+![Run result](https://github.com/yana-prokudina/oneforhun/blob/master/1for100.png)
+
 ***Возможен альтернативный вариант решения задачи с использованием BigDecimal***
